@@ -1,0 +1,25 @@
+Choose a door 1, 2, or 3 : 2
+You have chosen door 2
+There is a goat in door 1. Would you like to switch? (Y/N) : N
+You lost.
+
+
+
+Choose a door 1, 2, or 3 : 1
+You have chosen door 1
+There is a goat in door 2. Would you like to switch? (Y/N) : N
+Congratulations, you won a stick
+
+
+
+Choose a door 1, 2, or 3 : 1
+You have chosen door 1
+There is a goat in door 3. Would you like to switch? (Y/N) : Y
+Congratulations, you won a saber
+
+
+
+Choose a door 1, 2, or 3 : 1
+You have chosen door 1
+There is a goat in door 2. Would you like to switch? (Y/N) : Y
+You lost.
